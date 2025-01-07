@@ -1,0 +1,3 @@
+Tallinna_Keskraamatukogu;Tallinn;5;120000;15000
+Tartu_Linna_Raamatukogu;Tartu;3;80000;10000
+Narva_Linna_Raamatukogu;Narva;2;50000;6000
